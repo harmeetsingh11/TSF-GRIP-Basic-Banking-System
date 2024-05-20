@@ -31,27 +31,27 @@ This repository contains a basic banking application developed as part of Task 1
 
 - **Frontend**: <br>
    
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 - **Backend**: <br>
   
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+  [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  [![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - **Database**: <br>
--  
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+   [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Dependencies
 
-- [body-parser](https://www.npmjs.com/package/body-parser): ^1.20.2
-- [cors](https://www.npmjs.com/package/cors): ^2.8.5
-- [express](https://www.npmjs.com/package/express): ^4.19.2
-- [mongoose](https://www.npmjs.com/package/mongoose): ^8.3.5
-- [open](https://www.npmjs.com/package/open): ^10.1.0
+- [body-parser](https://www.npmjs.com/package/body-parser) (^1.20.2): Middleware for parsing incoming request bodies in a middleware before your handlers, available under the req.body property.
+- [cors](https://www.npmjs.com/package/cors)(^2.8.5): Middleware for enabling Cross-Origin Resource Sharing (CORS) in Express.js, allowing controlled access to resources from different domains.
+- [express](https://www.npmjs.com/package/express)(^4.19.2): Fast, unopinionated, minimalist web framework for Node.js, providing a robust set of features for building web applications.
+- [mongoose](https://www.npmjs.com/package/mongoose)(^8.3.5): MongoDB object modeling tool designed to work in an asynchronous environment, providing a straight-forward, schema-based solution to model your application data.
+- [open](https://www.npmjs.com/package/open)(^10.1.0):Cross-platform package to open files, directories, and URLs in the user's preferred application.
 
 ## Project Structure
 
