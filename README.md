@@ -57,7 +57,8 @@ This repository contains a basic banking application developed as part of Task 1
 
 The project is organized into the following structure:
 
-project folder/ <br>
+```bash
+TSF-GRIP-Basic-Banking-System/
 ├── frontend/
 │ ├── app.js
 │ ├── index.html
@@ -73,7 +74,7 @@ project folder/ <br>
 ├── package.json
 ├── README.md
 └── server.js
-
+```
 
 ### Description of Files and Folders
 
