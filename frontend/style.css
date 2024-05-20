@@ -1,0 +1,7 @@
+.gradient-background {
+  background-image: radial-gradient(
+    50% 110% at 50% 50%,
+    hsla(0, 0%, 100%, 0) 0,
+    #ccecff 100%
+  );
+}
