@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
           
           <button class="text-white bg-gray-500 hover:bg-gray-600 focus:ring-4 focus:outline-none focus:ring-gray-300 rounded  w-1/2 px-5 py-2.5 text-center dark:bg-gray-600 dark:hover:bg-gray-700 dark:focus:ring-gray-800" onclick="viewCustomers()">Back to Customers</button>
         </div>
-        <button class="bg-blue-500 text-white px-6 py-3 rounded hover:bg-blue-600 w-full" onclick="viewTransfers()">View All Transfers</button>
+        <button type="button" class="bg-blue-500 text-white px-6 py-3 rounded hover:bg-blue-600 w-full" onclick="viewTransfers()">View All Transfers</button>
       </form>
     </div>
     `;
