@@ -20,6 +20,9 @@ This repository contains a basic banking application developed as part of Task 1
 
 ## Screenshots and Demo video
 
+https://github.com/harmeetsingh11/TSF-GRIP-Basic-Banking-System/assets/130365071/3c939324-980a-47a1-b1b6-d6491da94ac3
+
+
 ## Usage
 
 - **Homepage**: Navigate to the homepage to see the options 'View Customers' and 'View All Transfers'.
