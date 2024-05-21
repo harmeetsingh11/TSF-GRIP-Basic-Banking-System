@@ -1,6 +1,6 @@
-# Basic Banking App
+# Basic Banking System
 
-This repository contains a basic banking application developed as part of Task 1 for my web development and designing internship at The Sparks Foundation - GRIP internship batch May 2024.
+This repository contains a basic banking system web  application developed as part of Task 1 for my web development and designing internship at The Sparks Foundation under Graduate Rotational Internship Program (GRIP) for batch May 2024.
 
 ## Features
 
